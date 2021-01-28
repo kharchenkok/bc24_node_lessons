@@ -1,0 +1,26 @@
+{
+  "name": "bc24_node_lessons",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "child.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharchenkok/bc24_node_lessons.git"
+  },
+  "keywords": [],
+  "author": "KharchenkoK <k.v.kharchenko@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharchenkok/bc24_node_lessons/issues"
+  },
+  "homepage": "https://github.com/kharchenkok/bc24_node_lessons#readme",
+  "dependencies": {
+    "commander": "^7.0.0"
+
+  }
+ 
+}
